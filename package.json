@@ -1,0 +1,24 @@
+{
+  "name": "pombo",
+  "version": "1.0.0",
+  "description": "Pombo module.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorLuizC/node-pombo.git"
+  },
+  "keywords": [
+    "pombo"
+  ],
+  "author": "Vitor Luiz Cavalcanti <vitorluizc@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VitorLuizC/node-pombo/issues"
+  },
+  "homepage": "https://github.com/VitorLuizC/node-pombo#readme"
+}
