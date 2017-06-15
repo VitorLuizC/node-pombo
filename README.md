@@ -1,5 +1,7 @@
 # node-pombo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/VitorLuizC/node-pombo.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/VitorLuizC/node-pombo.svg?branch=master)](https://travis-ci.org/VitorLuizC/node-pombo)
 
 Just provide a random nice pombo ASCII draw(and his author).
